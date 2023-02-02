@@ -1,0 +1,61 @@
+.content{
+    width: 100%;
+    margin: 0 auto;
+}
+
+input[type=text]{
+    padding: 5px 10px;
+    width: 60%;
+    letter-spacing: 1px;
+}
+
+input[type=submit]{
+    padding: 5px 15px;
+    letter-spacing: 1px;
+    border: 0;
+    background: gold;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+h1{
+    border-bottom: 1px solid gray;
+}
+
+h2{
+    color: #964B00 ;
+    text-align:  center;
+    font-size: 39px;
+    text-transform:uppercase;
+}
+h2 a{
+    color: #964B00;
+    text-decoration: none;
+    font-size: 21px;
+}
+
+.post{
+    border: 5px solid gray;
+    padding: 5px;
+    border-radius: 3px;
+    margin-top: 15px;
+}
+
+.post-head span{
+    font-size: 14px;
+    color: yellow;
+    letter-spacing: 1px;
+}
+
+.post-content{
+    font-size: 18px;
+    color: white;
+}
+.post-content a{
+    color: white;
+}
+body{
+    background-color: #2d3032;
+
+}
